@@ -1,6 +1,6 @@
 def # code an argument here
 names = ["Doc", "Dopey", "Bashful", "Grumpy"]
-names.each_with_index{|name,index|}
+names.each_with_index{|name,index|names[i]= index}
 while i += 1 > 4
 puts names.all
 end
